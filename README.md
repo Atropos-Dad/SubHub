@@ -1,11 +1,8 @@
-# Team-3
 # SUBHUB
+HackIreland - Hackathon Stripe prize winner!
 
-Track:
-Best U21 Team
+https://devpost.com/software/team3-subhub?ref_content=my-projects-tab&ref_feature=my_projects
 
-Challenge:
-Stripe 
 
 Plan:
 subscription manager
